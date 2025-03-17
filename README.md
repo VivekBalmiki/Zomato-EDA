@@ -74,8 +74,8 @@ Correlation analysis and other statistical methods were used to identify relatio
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/VivekBalmiki/Zomato-EDA.git
+    cd Zomato-EDA
     ```
 2.  **Install Dependencies:**
     ```bash
